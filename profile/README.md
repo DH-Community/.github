@@ -7,7 +7,3 @@ A GitHub organization that allows developers to talk about everything about deve
 This page is the public README for a private developers community. We’ve made it private to enable a free exchange of ideas, and we’re starting with a small group to ensure a good experience.
 
 Create an issue by clicking [here](https://github.com/DH-Community/Apply/issues/new/choose) to apply for membership.
-
-## Private Resources
-
-1. [Forums](https://github.com/DH-Community/Forums/discussions)
